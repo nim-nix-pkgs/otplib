@@ -11,7 +11,6 @@
   inputs.src-otplib-master.ref   = "refs/heads/master";
   inputs.src-otplib-master.owner = "dimspith";
   inputs.src-otplib-master.repo  = "otplib";
-  inputs.src-otplib-master.dir   = "";
   inputs.src-otplib-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
