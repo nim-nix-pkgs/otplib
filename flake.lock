@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651555865,
-        "narHash": "sha256-gdJiv3IVFVfk1cG0c3XSsIv5qz+b8SzpXyA9vmoe2XI=",
+        "lastModified": 1651918283,
+        "narHash": "sha256-N2HcPQXv7tGgh0Ef9Gu8pVQYYyscsNsjJ3OAIzPs+k8=",
         "owner": "nim-nix-pkgs",
         "repo": "otplib",
-        "rev": "86f16b8c5961a3f9771f26dfee96fdeabd21b368",
+        "rev": "a6256605ff5a24d495fb856ece6a5a6d04c25be8",
         "type": "github"
       },
       "original": {
